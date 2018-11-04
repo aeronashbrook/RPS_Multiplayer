@@ -1,1 +1,1 @@
-# RPS_Multiplayer
+In this project I made a train schedule stored in Firebase. Moment js was used to convert times to give the next train arrival and minutes away. I used bootstrap to make a clean, mobile-friendly app.
